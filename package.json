@@ -1,0 +1,9 @@
+{
+  "name": "millonario-online-server",
+  "version": "1.0.0",
+  "description": "Servidor 1vs1 en tiempo real para Millonario IA (B4A) - HTTP REST polling",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
